@@ -26,6 +26,6 @@
 ![skills](https://skillicons.dev/icons?i=java,cs,html,css,js,react,github,figma,vscode,visualstudio&theme=dark)
 
 ## ⚙️ Статистика GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&card_width=250px&theme=codestackr#gh-dark-mode-only)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&card_width=250px&theme=codeSTACKr#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-en-light&layout=compact&title_color:"ff652f"&icon_color: "FFE400"&text_color: "ffffff"&bg_color: "000000",)](https://github.com/dark-en-light/github-readme-stats)
