@@ -25,7 +25,7 @@
 ![skills](https://skillicons.dev/icons?i=java,cs,html,css,js,react,github,figma,vscode,visualstudio&theme=dark)
 
 ## ⚙️ Статистика GitHub
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /><img height="190" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
+<p align="left">
+  <img height="150" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /><img height="150" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
 </p>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-en-light&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
