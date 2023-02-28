@@ -26,6 +26,6 @@
 
 ## ⚙️ Статистика GitHub
 <p align="left">
-   <img height="200" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /> <img height="200" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
+   <img height="180" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
 </p>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-en-light&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
