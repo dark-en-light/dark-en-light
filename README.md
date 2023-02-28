@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=1500&pause=1000&color=F7F7F7&center=true&multiline=true&repeat=false&width=500&height=150&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=1500&pause=1000&color=F7F7F7&center=true&multiline=true&repeat=false&width=500&height=120&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
 <table align="right">
@@ -25,7 +25,7 @@
 ![skills](https://skillicons.dev/icons?i=java,cs,html,css,js,react,github,figma,vscode,visualstudio&theme=dark)
 
 ## ⚙️ Статистика GitHub
-<p align="left">
-   <img height="180" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /> <img height="180" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
+<p align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /> <img height="200" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
 </p>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-en-light&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
