@@ -7,7 +7,7 @@
  <tr><td><a href="README_eng.md"><img src="images/us_flag.png" height="13"> English</a></td></tr>
 </table>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=1500&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=450&height=150&lines=%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+web-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0++Java%F0%9F%92%96%E2%98%95;%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8E%D1%81%D1%8C+%D0%B2+web-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%F0%9F%8E%A8;%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%8E+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%F0%9F%94%A7%E2%9A%99%EF%B8%8F;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D1%83%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D1%8C+%D1%87%D1%82%D0%BE-%D1%82%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5%F0%9F%94%AD%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=450&size=18&duration=1500&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=450&height=150&lines=I'm+a+beginner+web-developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Love+for+programming+in+java%F0%9F%92%96%E2%98%95;Practicing+web-design%F0%9F%8E%A8;Studing+front-end+development+technologies%F0%9F%94%A7%E2%9A%99;Love+to+learn+something+new%F0%9F%94%AD%F0%9F%93%9A" alt="Typing SVG" /></a>
 
 ## 🤝 Socials
 
