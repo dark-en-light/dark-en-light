@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=1500&pause=1000&color=F7F7F7&center=true&multiline=true&repeat=false&width=340&lines=Hello%2C+I'm+Dasha%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=1500&pause=1000&color=F7F7F7&center=true&multiline=true&repeat=false&width=500&height=120&lines=Welcome+to+my+profile!%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
 <table align="right">
@@ -26,6 +26,6 @@
 
 ## 📊 GitHub statistics
 <p align="left">
-   <img height="200" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /> <img height="200" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
+   <img height="170" src="https://streak-stats.demolab.com?user=dark-en-light&hide_border=true&background=00000000&theme=codestackr#gh-dark-mode-only" /> <img height="170" src="https://github-readme-stats.vercel.app/api?username=dark-en-light&hide_border=true&show_icons=true&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
 </p>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-en-light&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
+<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-en-light&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&theme=codeSTACKr#gh-dark-mode-only"/>
