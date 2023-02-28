@@ -22,7 +22,7 @@
 
 ## ⚙️ Технологии
 
-![skills](https://skillicons.dev/icons?i=java,cs,html,css,js,react,github,figma,vscode,visualstudio&theme=dark)
+![skills](https://skillicons.dev/icons?i=java,idea,cs,html,css,js,react,github,figma,vscode,visualstudio&theme=dark)
 
 ## 📊 Статистика GitHub
 <p align="left">
